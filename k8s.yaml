@@ -12,7 +12,7 @@ spec:
       restartPolicy: Always
       containers:
         - name: v2ku
-          image: saykes/v2ku
+          image: winder9090/v2ku
           ports:
             - containerPort: 8251
             
